@@ -28,7 +28,7 @@ A centralized web platform designed for educational institutions to help student
 
 | Component | Technology | Description |
 | :--- | :--- | :--- |
-| **Frontend** | Next.js 15 (App Router) | React Framework with Server-Side Rendering |
+| **Frontend** | Next.js 16+ (App Router) | React Framework with Server-Side Rendering |
 | **Styling** | Tailwind CSS | Utility-first CSS framework for responsive design |
 | **Backend** | Next.js API Routes | Serverless functions for handling API requests |
 | **Database** | MongoDB | NoSQL database for flexible data storage |
