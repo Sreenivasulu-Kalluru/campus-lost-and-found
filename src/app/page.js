@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-gray-50 p-8">
+    <div className="grow flex flex-col items-center justify-center bg-gray-50 p-8">
       <h1 className="text-5xl font-bold mb-6 text-blue-800 text-center">
         Campus Lost & Found
       </h1>
